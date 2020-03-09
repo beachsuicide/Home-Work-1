@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Game.cs" />
     <Compile Include="Assets\Scripts\balls.cs" />
     <Compile Include="Assets\Scripts\deployBalls.cs" />
     <Reference Include="Unity.Timeline.Editor">
@@ -86,12 +85,6 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>E:/Prog/Unity project/New Unity Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>E:/Prog/Unity project/New Unity Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>E:/Prog/Unity project/New Unity Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>E:/Prog/Unity project/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
